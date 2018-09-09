@@ -2,7 +2,7 @@
 
 Creating simulation to understand the monty hall problem. The simulation works similar the game show, but here we consider both the cases in the same simulation - sticking to the door and switching to a new one.
 
-PROCEDURE
+Procedure:
 For each simulation run
 1) We make a selection and make note of this (original) selection
 2) Now, we check the other two doors and select the one which doesn't have a Goat (no prize)
